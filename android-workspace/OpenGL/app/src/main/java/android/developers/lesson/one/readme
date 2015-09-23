@@ -1,0 +1,10 @@
+A primeira licao do tutorial do Android Developer nos ensina a manipular as class
+
+GLSurfaceView
+    A view que contem os graficos que serao desenhados(como um quadro onde eh desenhado algo)
+
+GLSurfaceViwe.Renderer
+    Interface responsavel por controlar o que eh desenhado na GLSurfaceView
+
+
+====================================================================================================
